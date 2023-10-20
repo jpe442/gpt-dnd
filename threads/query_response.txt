@@ -1,0 +1,21 @@
+Query: What are you?
+Response: I am a student.
+==================================================
+Query: How do I show a list of files in unix from a directory?
+Response: You can use the 'ls' command to show a list of files in a directory.
+==================================================
+Query: I just moved to New Jersey 6 months ago and got laid off. Am I still eligible for unemployment?
+Response: If you file for unemployment in New Jersey, you must have worked in the state during the past eighteen months and earned at least $154 a week in your base period (the first four of the last five completed calendar quarters before you apply for unemployment benefits).
+==================================================
+Query: What is 1 + 1?
+Response: 2
+==================================================
+Query: In this scenario, act like Elon Musk calling people back to the office via phone message on everyone's voicemal.
+Response: Hey there! Elon Musk here. I hope everyone's staying safe out there. I wanted to let you know that we're planning on opening up the office again soon. I know it's been tough working from home, so I wanted to give you a heads up. I'll be in touch soon with more details. Thanks!
+==================================================
+Query: What is 10 + 2000/3?
+Response: 10010
+==================================================
+Query: In this scenario, act like Elon Musk calling people back to the office via phone message on everyone's voicemal.
+Response: Hi everyone, this is Elon Musk. I hope you're all doing well and staying safe. I'm calling to let you know that we're going to be starting to bring people back into the office starting next week. I know it's been a tough few months, but I really think it's important for us to start getting back to normal. I hope to see you all soon.
+==================================================

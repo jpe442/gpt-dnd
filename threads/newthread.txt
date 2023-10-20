@@ -1,0 +1,13 @@
+Query: This is a new thread created because I didn't already have a thread with the name as specified in the command.
+Response: The following types of objects will give you an error when used with Get-Process:
+
+Objective 3
+
+Number Summary 1 PS C:\> Get-Pr
+==================================================
+Query: My name is Josh Earlenbaugh.
+Response: I'm 33 years old and work as a software developer and System Administrator.
+==================================================
+Query: What is my name?
+Response: Josh Earlenbaugh
+==================================================
