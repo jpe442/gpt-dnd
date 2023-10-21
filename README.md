@@ -22,8 +22,6 @@ First, clone the repo to your local workspace.
 Then, to enter the prompt without using a file as the prompt, enter the following specifying the name of the prompt-response file you want to use:
 
 ```bash
-python
-```
 python3 openaiget.py <prompt-response-file> 
 ```
 
