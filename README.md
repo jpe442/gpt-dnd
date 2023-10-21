@@ -25,4 +25,23 @@ Then, to enter the prompt without using a file as the prompt, enter the followin
 python3 openaiget.py <prompt-response-file> 
 ```
 
+If the file you specify does not already exist, then the script will create it for you.
+
+The script will then ask you for your prompt:
+
+```bash
+Enter your query:
+```
+
+After you enter your query via the command line, the script will take that text you entered as well as take the contents of the prompt-response file you specified as context, and create a prompt with the combined information to send to the gpt API. Of course, for the first prompt of a new thread, the specified prompt-response file will have no contents and thus add no context to add.
+
+### Entering the Prompt Using a File
+
+You do not need to type in your prompt via the command line. You can instead specify another file and the contents of that file will be used as the prompt. A prompt-response file must still be specified to define the thread:
+
+```bash
+python3 openaiget.py <path-to-prompt-response-file> <path-to-prompt-file>
+```
+
+
 
