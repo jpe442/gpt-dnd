@@ -17,12 +17,18 @@ and gpt would have the information available to answer via the appended context.
 
 First, clone the repo to your local workspace.
 
-### Entering the Prompt without Using a File
-
-Then, to enter the prompt without using a file as the prompt, enter the following specifying the name of the prompt-response file you want to use:
+Then change directories so you are in the top level directory of your new workspace:
 
 ```bash
-python3 openaiget.py <prompt-response-file> 
+cd gpt-project
+```
+
+### Entering the Prompt without Using a File
+
+Then, to enter the prompt without using a file as the prompt, enter the following to call the script, specifying the name of the prompt-response file you want to use:
+
+```bash
+python3 openaiget.py <path-to-prompt-response-file> 
 ```
 
 If the file you specify does not already exist, then the script will create it for you.
