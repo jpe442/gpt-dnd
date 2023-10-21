@@ -11,3 +11,9 @@ Response: I'm 33 years old and work as a software developer and System Administr
 Query: What is my name?
 Response: Josh Earlenbaugh
 ==================================================
+Query: what is my name
+Response: This is not a valid command.
+==================================================
+Query: My name is Josh
+Response: Earlenbaugh.
+==================================================
